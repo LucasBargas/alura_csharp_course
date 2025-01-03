@@ -1,0 +1,15 @@
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\bin\Debug\net8.0\Podcast.exe
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\bin\Debug\net8.0\Podcast.deps.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\bin\Debug\net8.0\Podcast.runtimeconfig.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\bin\Debug\net8.0\Podcast.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\bin\Debug\net8.0\Podcast.pdb
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfoInputs.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.AssemblyInfo.cs
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.csproj.CoreCompileInputs.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.sourcelink.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\refint\Podcast.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.pdb
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\Podcast.genruntimeconfig.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\1_curso_csharp_orientado_a_objetos\md2_poo\aula3_challenge\Podcast\Podcast\obj\Debug\net8.0\ref\Podcast.dll

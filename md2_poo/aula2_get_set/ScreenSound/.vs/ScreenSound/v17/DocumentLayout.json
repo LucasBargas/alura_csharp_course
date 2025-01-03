@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|c:\\users\\barga\\onedrive\\\u00E1rea de trabalho\\lucas - cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|c:\\users\\barga\\onedrive\\\u00E1rea de trabalho\\lucas - cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\screensound\\screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|c:\\users\\barga\\onedrive\\\u00E1rea de trabalho\\lucas - cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\screensound\\screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|c:\\users\\barga\\onedrive\\\u00E1rea de trabalho\\lucas - cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\screensound\\screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F8B74EA-F155-4E74-8AA3-AC09A5D7DD93}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:13:54.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Musica.cs",
+              "ToolTip": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Musica.cs",
+              "RelativeToolTip": "ScreenSound\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:13:40.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Album.cs",
+              "ToolTip": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Album.cs",
+              "RelativeToolTip": "ScreenSound\\Album.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:28:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Banda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banda.cs",
+              "ToolTip": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula2_get_set\\ScreenSound\\ScreenSound\\Banda.cs",
+              "RelativeToolTip": "ScreenSound\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:53:02.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

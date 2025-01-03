@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md1_primeira_aplicacao\\aula1_preparando_ambiente\\ScreenSound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF017FE-5561-4376-B1B2-42040B0C537B}|ScreenSound\\ScreenSound.csproj|c:\\users\\barga\\onedrive\\\u00E1rea de trabalho\\lucas - cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md1_primeira_aplicacao\\aula1_preparando_ambiente\\screensound\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF017FE-5561-4376-B1B2-42040B0C537B}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md1_primeira_aplicacao\\aula1_preparando_ambiente\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\barga\\OneDrive\\\u00C1rea de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md1_primeira_aplicacao\\aula1_preparando_ambiente\\ScreenSound\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:41:12.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
