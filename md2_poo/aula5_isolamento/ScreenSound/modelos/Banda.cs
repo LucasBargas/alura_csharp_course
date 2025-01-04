@@ -2,7 +2,7 @@ using ScreenSound.modelos;
 
 namespace ScreenSound.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel
 {
   // private List<Album> albuns = new();
   private List<Album> albuns = [];
@@ -14,8 +14,6 @@ internal class Banda
     get 
     { 
       return this.notas.Count == 0 ? 0 : this.notas.Average(a => a.Nota);
-      // if (this.notas.Count == 0) return 0;
-      // else return this.notas.Average(a => a.Nota);
     }
   }
   public List<Album> Albuns => albuns;

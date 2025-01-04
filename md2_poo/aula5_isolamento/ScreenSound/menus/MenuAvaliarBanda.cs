@@ -20,7 +20,6 @@ internal class MenuAvaliarBanda : Menu
       bandasRegistradas[nomeDaBanda].AdicionarNota(nota);
 
       Console.WriteLine($"\nA nota {nota.Nota} foi registrada com sucesso para a banda {nomeDaBanda}");
-
       Thread.Sleep(2000);
       Console.Clear();
     }
