@@ -19,6 +19,16 @@ internal class Program
       { beatles.Nome, beatles }
     };
 
+    Dictionary<int, Menu> opcoes = new()
+    {
+      {1, new MenuRegistrarBanda()},
+      {2, new MenuRegistrarAlbum()},
+      {3, new MenuMostrarBandas()},
+      {4, new MenuAvaliarBanda()},
+      {5, new MenuExibirDetalhes()},
+      {-1, new MenuSair()},
+    };
+
     void ExibirLogo()
     {
       Console.WriteLine(@"
@@ -47,42 +57,15 @@ internal class Program
       string opcaoEscolhida = Console.ReadLine()!;
       int opcaoEscolhidaNumerica = int.Parse(opcaoEscolhida);
 
-      switch (opcaoEscolhidaNumerica)
+      if (opcoes.ContainsKey(opcaoEscolhidaNumerica))
       {
-        case 1:
-          MenuRegistrarBanda menu1 = new();
-          menu1.Executar(bandasRegistradas);
-          ExibirOpcoesDoMenu();
-          break;
-        case 2:
-          MenuRegistrarAlbum menu2 = new();
-          menu2.Executar(bandasRegistradas);
-          ExibirOpcoesDoMenu();
-          break;
-        case 3:
-          MenuMostrarBandas menu3 = new();
-          menu3.Executar(bandasRegistradas);
-          ExibirOpcoesDoMenu();
-          break;
-        case 4:
-          MenuAvaliarBanda menu4 = new();
-          menu4.Executar(bandasRegistradas);
-          ExibirOpcoesDoMenu();
-          break;
-        case 5:
-          MenuExibirDetalhes menu5 = new();
-          menu5.Executar(bandasRegistradas);
-          ExibirOpcoesDoMenu();
-          break;
-        case -1:
-          Console.WriteLine("Tchau tchau :)");
-          break;
-        default:
-          Console.WriteLine("Opção inválida");
-          break;
+        Menu menuASerExibido = opcoes[opcaoEscolhidaNumerica];
+        menuASerExibido.Executar(bandasRegistradas);
+
+        if (opcaoEscolhidaNumerica > 0) ExibirOpcoesDoMenu();
       }
     }
-    
+
     ExibirOpcoesDoMenu();
   }
 }
