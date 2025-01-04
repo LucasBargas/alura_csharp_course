@@ -1,16 +1,28 @@
+using ScreenSound.modelos;
+
 namespace ScreenSound.Modelos;
 
-class Banda
+internal class Banda
 {
-  private List<Album> albuns = new();
-  private List<int> notas = new();
+  // private List<Album> albuns = new();
+  private List<Album> albuns = [];
+  // private List<int> notas = new();
+  private List<Avaliacao> notas = [];
   public string Nome { get; }
-  public double Media => notas.Average();
+  public double Media 
+  {
+    get 
+    { 
+      return this.notas.Count == 0 ? 0 : this.notas.Average(a => a.Nota);
+      // if (this.notas.Count == 0) return 0;
+      // else return this.notas.Average(a => a.Nota);
+    }
+  }
   public List<Album> Albuns => albuns;
 
   public Banda(string nome)
   {
-    Nome = nome;
+    this.Nome = nome;
   }
 
   public void AdicionarAlbum(Album album)
@@ -18,14 +30,14 @@ class Banda
     albuns.Add(album);
   }
 
-  public void AdicionarNota(int nota)
+  public void AdicionarNota(Avaliacao nota)
   {
     notas.Add(nota);
   }
 
   public void ExibirDiscografia()
   {
-    Console.WriteLine($"Discografia da banda {Nome}");
+    Console.WriteLine($"Discografia da banda {this.Nome}");
     foreach (Album album in albuns)
     {
       Console.WriteLine($"Álbum: {album.Nome} ({album.DuracaoTotal})");
