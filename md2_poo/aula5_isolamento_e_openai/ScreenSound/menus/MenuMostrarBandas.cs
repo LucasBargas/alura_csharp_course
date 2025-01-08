@@ -15,7 +15,6 @@ internal class MenuMostrarBandas : Menu
       {-1, new MenuSair()},
     };
 
-
     if (bandasRegistradas.Count > 0)
     {
       foreach (string banda in bandasRegistradas.Keys)

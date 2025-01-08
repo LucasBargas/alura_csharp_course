@@ -9,26 +9,33 @@ internal class MenuRegistrarAlbum : Menu
     base.Executar(bandasRegistradas);
     ExibirTituloDaOpcao("Registro de álbuns");
 
-    Console.Write("Digite a banda cujo álbum deseja registrar: ");
-    string nomeDaBanda = Console.ReadLine()!;
+    System.Console.Write("Digite a banda cujo álbum deseja registrar: ");
+    string nomeDaBanda = System.Console.ReadLine()!;
 
     if (bandasRegistradas.ContainsKey(nomeDaBanda))
     {
-      Console.Write("Agora digite o título do álbum: ");
-      string tituloAlbum = Console.ReadLine()!;
+      System.Console.Write("Agora digite o título do álbum: ");
+      string tituloAlbum = System.Console.ReadLine()!;
 
       Banda banda = bandasRegistradas[nomeDaBanda];
-      banda.AdicionarAlbum(new Album(tituloAlbum));
 
-      Console.WriteLine($"O álbum {tituloAlbum} de {nomeDaBanda} foi registrado com sucesso!");
-      Thread.Sleep(4000);
-      Console.Clear();
+      if (banda.Albuns.Any(a => a.Nome.Equals(tituloAlbum)))
+      {
+        System.Console.Write($"O album {tituloAlbum} já consta como registrado na banda {nomeDaBanda}");
+        Thread.Sleep(4000);
+        System.Console.Clear();
+      }
+      else
+      {
+        banda.AdicionarAlbum(new Album(tituloAlbum));
+        System.Console.WriteLine($"O álbum {tituloAlbum} de {nomeDaBanda} foi registrado com sucesso!");
+        Thread.Sleep(4000);
+        System.Console.Clear();
+      }
     }
     else
     {
-      Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
-      Thread.Sleep(2000);
-      RetornaParaOMenu();
+      VerificaSeBandaExiste(bandasRegistradas, nomeDaBanda);
     }
   }
 }

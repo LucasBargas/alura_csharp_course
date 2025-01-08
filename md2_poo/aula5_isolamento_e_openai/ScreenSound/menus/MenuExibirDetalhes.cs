@@ -45,9 +45,7 @@ internal class MenuExibirDetalhes : Menu
     }
     else
     {
-      Console.WriteLine($"\nA banda {nomeDaBanda} não foi encontrada!");
-      Thread.Sleep(2000);
-      RetornaParaOMenu();
+      VerificaSeBandaExiste(bandasRegistradas, nomeDaBanda);
     }
   }
 }
