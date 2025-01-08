@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F43cgvqTtMg=",
+  "dgSpecHash": "CKZuuxg/FJM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\barga\\OneDrive\\Área de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula6_openai\\ScreenSound\\ScreenSound.csproj",
+  "projectFilePath": "C:\\Users\\barga\\OneDrive\\Área de Trabalho\\Lucas - Cursos\\csharp_course\\1_curso_csharp_orientado_a_objetos\\md2_poo\\aula5_isolamento_e_openai\\ScreenSound\\ScreenSound.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barga\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\barga\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",

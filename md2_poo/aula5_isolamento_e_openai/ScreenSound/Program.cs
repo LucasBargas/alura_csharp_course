@@ -14,12 +14,7 @@ class Program
 
     Banda beatles = new("The Beatles");
 
-    Dictionary<string, Banda> bandasRegistradas = new()
-    {
-      { ira.Nome, ira },
-      { beatles.Nome, beatles }
-    };
-
+    Dictionary<string, Banda> bandasRegistradas = new();
     Dictionary<int, Menu> opcoes = new()
     {
       {1, new MenuRegistrarBanda()},

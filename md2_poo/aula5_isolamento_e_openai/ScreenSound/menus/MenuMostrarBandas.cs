@@ -9,12 +9,40 @@ internal class MenuMostrarBandas : Menu
     base.Executar(bandasRegistradas);
     ExibirTituloDaOpcao("Exibindo todas as bandas registradas na nossa aplicação");
 
-    foreach (string banda in bandasRegistradas.Keys)
+    Dictionary<int, Menu> opcoes = new()
     {
-      Console.WriteLine($"Banda: {banda}");
-    }
+      {1, new MenuRegistrarBanda()},
+      {-1, new MenuSair()},
+    };
 
-    Thread.Sleep(2000);
-    RetornaParaOMenu();
+
+    if (bandasRegistradas.Count > 0)
+    {
+      foreach (string banda in bandasRegistradas.Keys)
+      {
+        Console.WriteLine($"Banda: {banda}");
+      }
+
+      Thread.Sleep(2000);
+      RetornaParaOMenu();
+    }
+    else
+    {
+      System.Console.WriteLine("Ainda não há bandas registradas!");
+      System.Console.WriteLine("\nDeseja registrar uma banda?");
+
+      Console.WriteLine("\nDigite 1 para registrar uma banda");
+      Console.WriteLine("Digite -1 para voltar ao menu principal");
+
+      Console.Write("\nDigite a sua opção: ");
+      int opcaoEscolhida = int.Parse(Console.ReadLine()!);
+
+      if (opcoes.ContainsKey(opcaoEscolhida))
+      {
+        Menu menuASerExibido = opcoes[opcaoEscolhida];
+        menuASerExibido.Executar(bandasRegistradas);
+        Console.Clear();
+      }
+    }
   }
 }
