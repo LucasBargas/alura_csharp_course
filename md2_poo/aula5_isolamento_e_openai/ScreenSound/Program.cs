@@ -1,7 +1,6 @@
 ﻿using ScreenSound.menus;
 using ScreenSound.modelos;
 using ScreenSound.Modelos;
-using OpenAI_API;
 
 class Program
 {
@@ -15,6 +14,7 @@ class Program
     Banda beatles = new("The Beatles");
 
     Dictionary<string, Banda> bandasRegistradas = new();
+    
     Dictionary<int, Menu> opcoes = new()
     {
       {1, new MenuRegistrarBanda()},

@@ -22,10 +22,10 @@ internal class MenuRegistrarBanda : Menu
     {
       bandasRegistradas.Add(nomeDaBanda, banda);
 
-      OpenAIAPI client = new("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");
+      OpenAIAPI client = new("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");
 
       var chat = client.Chat.CreateConversation();
-      chat.AppendSystemMessage($"Resuma a banda {nomeDaBanda} em 1 parágrafo. Adote um estilo formal!");
+      chat.AppendSystemMessage($"Resuma a banda {nomeDaBanda} em 1 parágrafo. Adote um estilo informal!");
 
       string resposta = chat.GetResponseFromChatbotAsync().GetAwaiter().GetResult();
       banda.Resumo = resposta;
