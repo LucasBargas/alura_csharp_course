@@ -20,7 +20,7 @@ class Program
     accountType = choice == 1 ? "Corrente" : "Poupança";
 
 
-    void ExibirOcoesDoMenu()
+    void ExibirOpcoesDoMenu()
     {
       Console.Clear();
 
@@ -46,7 +46,7 @@ Digite a opções desejada:
 ");
     }
 
-    ExibirOcoesDoMenu();
+    ExibirOpcoesDoMenu();
 
     while (option != 4)
     {
@@ -70,7 +70,7 @@ Digite a opções desejada:
           break;
       }
 
-      if (option != 4) ExibirOcoesDoMenu();
+      if (option != 4) ExibirOpcoesDoMenu();
     }
 
     Thread.Sleep(2000);
