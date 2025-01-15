@@ -1,0 +1,15 @@
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\bin\Debug\net9.0\Bytebank.exe
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\bin\Debug\net9.0\Bytebank.deps.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\bin\Debug\net9.0\Bytebank.runtimeconfig.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\bin\Debug\net9.0\Bytebank.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\bin\Debug\net9.0\Bytebank.pdb
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.AssemblyInfoInputs.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.AssemblyInfo.cs
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.sourcelink.json
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\refint\Bytebank.dll
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.pdb
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\Bytebank.genruntimeconfig.cache
+C:\Users\barga\OneDrive\Área de Trabalho\Lucas - Cursos\csharp_course\2_curso_csharp_arrays_e_colecoes\md1_arrays_e_linq\aula1_arrays\Bytebank\obj\Debug\net9.0\ref\Bytebank.dll
